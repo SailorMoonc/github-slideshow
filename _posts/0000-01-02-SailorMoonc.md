@@ -1,0 +1,2 @@
+---layout:alidetitle: "Welcome to our second slide!"
+---Your texUse the left arrow to go back!
